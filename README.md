@@ -62,9 +62,4 @@ This option will only automatically grant _runtime_ permissions, like Camera or 
 Special permissions, like All Files Access, or special access, like Accessibility Services, will not be automatically granted or enabled.
 
 # Screenshots
-<img src="https://github.com/user-attachments/assets/ce04ade4-a0f6-4a87-bd1c-f72c2e9fbd22" width="400"></img>
-<img src="https://github.com/user-attachments/assets/95834de4-b657-4024-b2e4-50e0df3cda36" width="400"></img>
-<img src="https://github.com/user-attachments/assets/46eaea5c-aaf1-428b-8759-4e43add3cfb1" width="400"></img>
-<img src="https://github.com/user-attachments/assets/bcfefdf6-08b3-4883-a0d6-8d845fe1cb15" width="400"></img>
-<img src="https://github.com/user-attachments/assets/98d8c34b-a60d-46a0-b282-78fcdf290731" width="400"></img>
-<img src="https://github.com/user-attachments/assets/904c59c8-2566-4757-aec5-e6b73d7b4aca" width="400"></img>
+![1148](https://github.com/user-attachments/assets/128aabef-c9e5-4c45-91c7-d1c562379bf1)
